@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://mega123:mega123@getaway-nk8uo.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "journey"
+}
