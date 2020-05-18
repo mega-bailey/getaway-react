@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://mega123:mega123@getaway-nk8uo.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "journey"
+  "jwtSecret": "journey",
+  "githubClientId": "2aaaf2b8a27e2ade2852",
+  "githubSecret": "3062e92e3f93e8da9ff4ad084b7b5a78ba8c3dab"
 }
